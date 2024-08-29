@@ -1,10 +1,6 @@
-<?php
-/** 
- *  Plugin Name: Search and Filter Plugin 
- *  Author: Hawana Tamang 
- *  Description: This is a search and filter plugin.
- *  Version: 1.1.1 
- */ 
+<?php 
+/* <-- Add Plugin information here-->*/
+
 
 // Enqueue the CSS for styling
 function movie_search_filter_styles() {

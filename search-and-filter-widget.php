@@ -1,10 +1,6 @@
 <?php
-/**
- * Plugin Name: Search and Filter Plugin
- * Author: Hawana Tamang
- * Description: This is a search and filter plugin.
- * Version: 1.0.0
- */
+/* <-- Add Plugin information here-->*/
+
 
 // Creating custom widget
 class sf_widget extends WP_Widget {
